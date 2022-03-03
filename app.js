@@ -4,7 +4,7 @@ var Game, GameConfig;
 
 function init(){
   GameConfig = {
-    type: Phaser.AUTO,
+    type: Phaser.CANVAS,
     width: 1920,
     height: 1080,
     scale: {
